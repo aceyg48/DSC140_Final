@@ -6,3 +6,5 @@ Inside of the Python notebook contains all the algorithms I used in my report.
 Also inside the Python Notebook are calculations I used and a lot of graphs I ended
 up not using in the end of the report. Everything in the excel workbook
 was used.
+
+The CSV File is the pokemon dataset used in my report and it was pulled from Kaggle.com
